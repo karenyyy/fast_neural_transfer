@@ -39,4 +39,4 @@ watchify.stderr.on('data', (data) => {
       httpServerStarted = true;
     }
   }
-});
+})
